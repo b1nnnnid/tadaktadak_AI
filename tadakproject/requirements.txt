@@ -1,0 +1,13 @@
+# requirements.txt
+
+python-dotenv
+google-api-python-client
+requests
+
+streamlit==1.31.0
+pandas==2.2.0
+python-dateutil==2.8.2
+google-api-python-client==2.108.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+apscheduler
